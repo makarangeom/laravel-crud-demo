@@ -29,3 +29,6 @@ Now, visit http://localhost:8000 to try the demo.
 
 This demo use SQLite database by default.
 If you want to use another database, you can set configuration in `config/database.php`.
+
+** Image
+https://gyazo.com/5875b945808c5c83fad19bbf501af705
